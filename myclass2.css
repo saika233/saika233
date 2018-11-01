@@ -1,0 +1,64 @@
+body{
+	margin: 0px;
+	padding: 0px;
+}
+#background{
+	width:1400px;
+	height: 1920px;
+	background-image:url(back.jpg);
+	
+	
+}
+#header{
+	width: 700px;
+	height: 200px;
+}
+#nav{
+	height: 200PX;
+	margin-top:20PX;
+	
+}
+.navzi{
+	margin-left: 150px;
+	color: purple;
+	font-weight: bold;
+
+}
+#nav[hr]{
+	
+	line-height: 0px;
+
+}
+a{
+	text-decoration: none;
+	color: #800080;
+	
+}
+a:hover{
+	 
+	 background-color: #000000;
+	 color: orangered;
+	 border-radius: 60px;
+		 
+}
+div#ariticle{
+	width: 700px;
+	height: 1020px;
+	background-color:black;
+	margin-left: 200px;
+}
+	
+div#aside{
+	        width: 5px;
+	        height: 100px;
+	        position: fixed;
+	        top: 300px;
+	        right: 400px;
+}
+.ziti{
+	color: #FF4500;
+	text-indent:2em;
+	
+	
+}
+	    
